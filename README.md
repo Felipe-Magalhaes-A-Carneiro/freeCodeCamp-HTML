@@ -15,16 +15,17 @@ Adding images, links, and lists.
 Building basic forms and ensuring accessibility.
 More about the course can be found <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">here</a>.
 
-🚀 Features
-A fully functional webpage designed to display cat photos.
-Clean, semantic, and beginner-friendly HTML code.
-Practical use of essential HTML elements like <img>, <a>, <ul>, <form>, and more.
+🚀 Features 
 
-🔧 Tech Stack
+A fully functional webpage designed to display cat photos. 
+Clean, semantic, and beginner-friendly HTML code. 
+Practical use of essential HTML elements like img, a, ul, form, and more.
+
+🔧 Tech Stack 
 HTML: The primary language used to structure the webpage.
 Code Editor: VS Code was used to write and test the project.
 
-🗂️ Repository Structure
+🗂️ Repository Structure 
 /
 ├── index.html       # Main HTML file
 └── README.md        # Documentation
